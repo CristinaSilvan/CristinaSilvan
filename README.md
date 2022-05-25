@@ -10,7 +10,7 @@
 
 ## Knowledge
 
-# Programming langueges
+# Programming lenguajes
 
 # FrameWork
 
