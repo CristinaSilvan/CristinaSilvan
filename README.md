@@ -1,28 +1,40 @@
-## ✨ About me ✨
+# ✨ About me ✨
 <!-- Add my pronouns -->
 
+------
 
-## My formation
+# My formation
 
-## Certifications
+# Certifications
 
-# Microsoft
+## Microsoft
 
-## Knowledge
+-----
 
-# Programming lenguajes
+# Knowledge
 
-# FrameWork
+## Programming lenguajes
+<!-- Add Markdown -->
 
-# Data Bases
+## FrameWorks
 
-# Soft Skills
+## Data Bases
 
-## My work experience
+## Idioms
+
+## Soft Skills
+
+-----
+
+# My work experience
 
 
-## Current Projects
+----
 
+# Current Projects
+
+
+----
 
 ## Contac me 💬
 <!-- Linkedin y correo -->
