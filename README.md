@@ -1,9 +1,31 @@
-### About me 👋
+## ✨ About me ✨
+<!-- Add my pronouns -->
 
-### My pronouns are 😄
 
-### I’m currently learning 🌱
+## My formation
 
+## Certifications
+
+# Microsoft
+
+## Knowledge
+
+# Programming langueges
+
+# FrameWork
+
+# Data Bases
+
+# Soft Skills
+
+## My work experience
+
+
+## Current Projects
+
+
+## Contac me 💬
+<!-- Linkedin y correo -->
 
 <!--
 **CristinaSilvan/CristinaSilvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
