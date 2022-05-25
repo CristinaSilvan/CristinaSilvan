@@ -36,7 +36,7 @@
 
 ----
 
-## Contac me 💬
+# Contac me 💬
 <!-- Linkedin y correo -->
 
 <!--
