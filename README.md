@@ -7,7 +7,7 @@
 
 I've been studying **Computer Science** since 2018 when I first joined the **University**, but due to personal circumstances, I was unable to complete my degree at that time. After relocating to another city, I spent several years working in the hospitality industry and taking on various side jobs. Despite the detours, my **passion for technology never faded** and I continued to chase it **through self-taught learning** via online resources.
 
-My journey took a turning point when I enrolled in a **Cloud Computing summer course at EOI (Escuela de Organización Industrial)**, which reignited my commitment to my **career path**. With the savings I had accumulated, I was able to pursue formal education again, this time enrolling in a **Higher Degree in Cross-Platform Application Development (DigiTech)**. The prior knowledge I had gained significantly contributed to my success in the program.
+My journey took a turning point when I enrolled in a [Cloud Computing summer course at EOI (Escuela de Organización Industrial)](https://www.eoi.es/es/cursos/90758/curso-de-cloud-computing-desarrollo-presencial-virtual-online-ambito-nacional), which reignited my commitment to my **career path**. With the savings I had accumulated, I was able to pursue formal education again, this time enrolling in a [Higher Degree in Cross-Platform Application Development (DigiTech)](http://digitechfp.com/fp-grado-superior/dam/). The prior knowledge I had gained significantly contributed to my success in the program.
 
 # Certifications
 
@@ -18,7 +18,7 @@ My journey took a turning point when I enrolled in a **Cloud Computing summer co
 # Knowledge
 
 ## Programming languajes
-
+<!-- Añadir imágenes -->
 ### Main languajes
 - Java
 - HTML
@@ -31,6 +31,7 @@ My journey took a turning point when I enrolled in a **Cloud Computing summer co
 - SQL
 
 ## IDE's and Other Tools
+<!-- Añadir imágenes -->
 - Visual Studio
 - Android Studio
 - Eclipse
@@ -41,6 +42,7 @@ My journey took a turning point when I enrolled in a **Cloud Computing summer co
 <!-- Experiencias con Data Bases -->
 
 ## Languajes
+<!-- Añadir emojies -->
 - Spanish
 - English
 
