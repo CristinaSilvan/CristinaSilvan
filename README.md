@@ -44,6 +44,8 @@ My journey took a turning point when I enrolled in a **Cloud Computing summer co
 
 # Contac me 💬
 <!-- Linkedin y correo -->
+https://www.linkedin.com/in/cristinasilvan/
+cristina_silvan@outlook.es
 
 <!--
 **CristinaSilvan/CristinaSilvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
