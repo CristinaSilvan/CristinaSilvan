@@ -17,16 +17,32 @@ My journey took a turning point when I enrolled in a **Cloud Computing summer co
 
 # Knowledge
 
-## Programming lenguajes
-<!-- Add Markdown -->
+## Programming languajes
 
-## IDE's and Other Development Programs
+### Main languajes
+- Java
+- HTML
+- CSS
+- JavaScript
 
-## FrameWorks
+### Others
+- Python
+- C#
+- SQL
 
-## Data Bases
+## IDE's and Other Tools
+- Visual Studio
+- Android Studio
+- Eclipse
+- GitHub
 
-## Idioms
+<!-- FrameWorks -->
+
+<!-- Experiencias con Data Bases -->
+
+## Languajes
+- Spanish
+- English
 
 ## Soft Skills
 
@@ -34,17 +50,20 @@ My journey took a turning point when I enrolled in a **Cloud Computing summer co
 
 # My work experience
 
+As mentioned in [my formation](#My-formation), I don't yet have direct experience in the tech industry. However, I bring valuable experience from **working in team environments**, which has helped me improve my **communication skills and commitment**. Additionally, facing challenging situations has strengthened my ability to handle **stress and develop resilience**.
 
 ----
 
 # Current Projects
 
+I am currently working on my **personal Website Portfolio** and have also curated a **list of software projects for Junior Developers** that I'm eager to practice in order to challenge myself.
 
 ----
 
 # Contac me 💬
 <!-- Linkedin y correo -->
 https://www.linkedin.com/in/cristinasilvan/
+
 cristina_silvan@outlook.es
 
 <!--
