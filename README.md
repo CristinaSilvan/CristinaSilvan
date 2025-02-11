@@ -1,5 +1,6 @@
 # ✨ About me ✨
 <!-- Add my pronouns -->
+I've been studying **Computer Science** since 2018 when I first joined the **University**. I couldn't finish my studies due to some family problems. After moving out to another city and work for some years in the restauration world and other side jobs, I could start studying **self-taught by internet**, not giving up about my passion for the tech world. Until I started a summer course from **EOI about Cloud Computing**. I soon resumed my studies after saving some money, joining a **Cross Platform Application Development's higher degree** which I made the most of thanks to my previous knowledge.
 
 ------
 
