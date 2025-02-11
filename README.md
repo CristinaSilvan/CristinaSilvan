@@ -1,10 +1,13 @@
 # ✨ About me ✨
 <!-- Add my pronouns -->
-I've been studying **Computer Science** since 2018 when I first joined the **University**. I couldn't finish my studies due to some family problems. After moving out to another city and work for some years in the restauration world and other side jobs, I could start studying **self-taught by internet**, not giving up about my passion for the tech world. Until I started a summer course from **EOI about Cloud Computing**. I soon resumed my studies after saving some money, joining a **Cross Platform Application Development's higher degree** which I made the most of thanks to my previous knowledge.
 
 ------
 
 # My formation
+
+I've been studying **Computer Science** since 2018 when I first joined the **University**, but due to personal circumstances, I was unable to complete my degree at that time. After relocating to another city, I spent several years working in the hospitality industry and taking on various side jobs. Despite the detours, my **passion for technology never faded** and I continued to chase it **through self-taught learning** via online resources.
+
+My journey took a turning point when I enrolled in a **Cloud Computing summer course at EOI (Escuela de Organización Industrial)**, which reignited my commitment to my **career path**. With the savings I had accumulated, I was able to pursue formal education again, this time enrolling in a **Higher Degree in Cross-Platform Application Development (DigiTech)**. The prior knowledge I had gained significantly contributed to my success in the program.
 
 # Certifications
 
