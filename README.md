@@ -24,6 +24,7 @@ My journey took a turning point when I enrolled in a [Cloud Computing summer cou
 - HTML
 - CSS
 - JavaScript
+- PHP
 
 ### Others
 - Python
