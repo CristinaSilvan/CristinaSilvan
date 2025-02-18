@@ -17,9 +17,9 @@ My journey took a turning point when I enrolled in a [Cloud Computing summer cou
 
 # Knowledge
 
-## Programming languajes
+## Programming languages
 <!-- Añadir imágenes -->
-### Main languajes
+### Main languages
 - Java
 - HTML
 - CSS
